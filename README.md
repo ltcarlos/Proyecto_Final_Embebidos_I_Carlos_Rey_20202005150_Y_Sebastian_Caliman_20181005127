@@ -1,4 +1,9 @@
 # Proyecto_Final_Embebidos_I_Carlos_Rey_20202005150_Y_Sebastian_Caliman_20181005127
+Minuto en el que recoje la estiba : 2:00
+
+Minuto en el que suelta la estiba: 6:51
+
+
 Códigos del Carro (Código Rasberry Controla Motores y Rasberry Envía Video y Recibe Instrucciones) y Código del Cliente Para Visualizar Video
 
 La Rasberry conectada a la camara ofrece 2 servidores web:
